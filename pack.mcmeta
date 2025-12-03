@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Limits the amount of healing items you can use during pvp trough toxicity.",
+    "min_format": 88,
+    "max_format": 88
+  }
+}
